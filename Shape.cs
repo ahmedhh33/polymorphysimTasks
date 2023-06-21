@@ -8,6 +8,12 @@ namespace Polymorphysim
 {
     abstract class Shape
     {
+        public string Name;
+        public string area;
+        public Shape(string name) 
+        {
+            Name = name;
+        }
         public abstract double CalculateArea();
     }
 
@@ -15,7 +21,7 @@ namespace Polymorphysim
     {
         private double radius;
 
-        public Circle(double radius)
+        public Circle(string name, double radius) :base(name) 
         {
             this.radius = radius;
         }
@@ -31,7 +37,7 @@ namespace Polymorphysim
         private double width;
         private double height;
 
-        public Rectangle(double width, double height)
+        public Rectangle(string name,double width, double height) : base(name) 
         {
             this.width = width;
             this.height = height;
@@ -48,7 +54,7 @@ namespace Polymorphysim
         private double basement;
         private double height;
 
-        public Triangle(double basement, double height)
+        public Triangle(string name ,double basement, double height): base(name) 
         {
             this.basement = basement;
             this.height = height;
