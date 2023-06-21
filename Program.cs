@@ -29,6 +29,19 @@
                 animals[i].MakeSound();
             }
             Console.WriteLine();
+
+            Console.WriteLine("================ Task3 =================");
+
+            Employee[] employees = new Employee[]
+        {
+            new FullTimeEmployee("Tomas Shilbi", 1100),
+            new PartTimeEmployee("Hosamm Awwar", 1050)
+        };
+
+            for (int i = 0; i < employees.Length; i++)
+            {
+                Console.WriteLine($"Employee {i} has a bonus of OMR {employees[i].CalculateBonus()}");
+            }
         }
     }
 }
