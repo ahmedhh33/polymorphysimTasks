@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\bin\Debug\net6.0\Polymorphysim.exe
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\bin\Debug\net6.0\Polymorphysim.deps.json
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\bin\Debug\net6.0\Polymorphysim.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\bin\Debug\net6.0\Polymorphysim.dll
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\bin\Debug\net6.0\Polymorphysim.pdb
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\obj\Debug\net6.0\Polymorphysim.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\obj\Debug\net6.0\Polymorphysim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\obj\Debug\net6.0\Polymorphysim.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\obj\Debug\net6.0\Polymorphysim.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\obj\Debug\net6.0\Polymorphysim.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\obj\Debug\net6.0\Polymorphysim.dll
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\obj\Debug\net6.0\refint\Polymorphysim.dll
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\obj\Debug\net6.0\Polymorphysim.pdb
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\obj\Debug\net6.0\Polymorphysim.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\Polymorphysim\obj\Debug\net6.0\ref\Polymorphysim.dll
