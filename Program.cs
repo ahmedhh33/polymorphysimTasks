@@ -60,6 +60,13 @@ namespace Polymorphysim
             {
                 Console.WriteLine(shape.Name +" " + shape.CalculateArea());
             }
+
+            Console.WriteLine("================ Task5 =================");
+
+            BankAccount bankAccount = new SavingsAccount(24354653,2350.346,1060);
+            bankAccount.Withdraw(500);
+            BankAccount bankAccount1 = new CheckingAccount(24354653, 2350.346);
+            bankAccount1.Withdraw(670);
         }
     }
 }
