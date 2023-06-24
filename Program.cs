@@ -67,6 +67,23 @@ namespace Polymorphysim
             bankAccount.Withdraw(500);
             BankAccount bankAccount1 = new CheckingAccount(24354653, 2350.346);
             bankAccount1.Withdraw(670);
+
+            Console.WriteLine("================ TasSpecial Task6 =================");
+
+            List<Students> students = new List<Students>() {
+                new Students("Ahmed Al-Aamri",24),
+                new Students("Salim Al-Fazari",23),
+                new Students("Muthir Al-Burtamani",23),
+                new Students("Hamood Al-Jahhafi",25),
+                new Students("Khalid Al-Aamri",24)
+            };
+
+            students.Sort();//sort basing on alphabit
+
+            foreach(Students sortedstudents in students)
+            {
+                Console.WriteLine($"student Name {sortedstudents.Name} his Age {sortedstudents.Age}");
+            }
         }
     }
 }
